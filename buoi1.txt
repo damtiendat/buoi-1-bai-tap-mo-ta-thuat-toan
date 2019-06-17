@@ -1,0 +1,8 @@
+begin
+input a,b
+if a>=0 then
+	b=a*23000
+	else
+	b=0
+end if
+end
