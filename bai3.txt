@@ -1,0 +1,8 @@
+begin 
+input a,b,c
+max=a
+if(max < c) then
+	print "max = c"
+if(max < b) then
+	print "max = b"
+end
